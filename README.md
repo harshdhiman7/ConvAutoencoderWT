@@ -1,0 +1,2 @@
+# Convolutional autoencoder for wind turbine blade damage detection
+### Modeling image data requires a special approach in the neural network world. The best-known neural network for modeling image data is the Convolutional Neural Network (CNN, or ConvNet). It can better retain the connected information between the pixels of an image. The particular design of the layers in a CNN makes it a better choice to process image data.
